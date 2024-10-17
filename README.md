@@ -1,2 +1,2 @@
-# fantastic-chainsaw
-A repo for stanford's class
+# Class Project
+A repo for Stanford's class
